@@ -1,0 +1,3 @@
+{"system": "Classify an anonymized insurance claim. Return a concise category and next action.", "user": "Claim CLM-001: water damage to kitchen, no personal identifiers.", "assistant": "category: property_water; next_action: request repair estimate"}
+{"system": "Classify an anonymized insurance claim. Return a concise category and next action.", "user": "Claim CLM-002: rear bumper damage after low-speed collision.", "assistant": "category: auto_collision; next_action: review photos and estimate"}
+{"system": "Classify an anonymized insurance claim. Return a concise category and next action.", "user": "Claim CLM-003: prescription reimbursement submitted with receipt.", "assistant": "category: medical_reimbursement; next_action: validate coverage"}

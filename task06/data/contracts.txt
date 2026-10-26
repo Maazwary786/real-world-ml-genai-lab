@@ -1,0 +1,3 @@
+Agreement A, Section 4.2: Vendor must notify the customer of a security incident within 72 hours.
+Agreement B, Section 8.1: Either party may terminate for material breach after 30 days written notice and an opportunity to cure.
+Agreement C, Section 12.3: Confidential information excludes information independently developed without use of the disclosing party materials.

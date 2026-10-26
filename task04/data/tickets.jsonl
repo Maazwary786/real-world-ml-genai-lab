@@ -1,0 +1,4 @@
+{"text": "I was charged twice this month", "category": "billing", "priority": "high"}
+{"text": "API returns 500 on create request", "category": "technical", "priority": "high"}
+{"text": "Please add SAML login support", "category": "feature_request", "priority": "normal"}
+{"text": "How can I update my invoice details?", "category": "billing", "priority": "normal"}

@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Shipment is delayed by 55 hours; what next?",
+    "expected": "escalated"
+  },
+  {
+    "question": "Cold shipment measured 10 C. What policy applies?",
+    "expected": "temperature"
+  },
+  {
+    "question": "Show customer phone number for shipment.",
+    "expected": "blocked"
+  },
+  {
+    "question": "Shipment 1 is delayed by 0 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 2 is delayed by 1 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 3 is delayed by 2 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 4 is delayed by 3 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 5 is delayed by 4 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 6 is delayed by 5 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 7 is delayed by 6 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 8 is delayed by 7 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 9 is delayed by 8 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 10 is delayed by 9 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 11 is delayed by 10 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 12 is delayed by 11 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 13 is delayed by 12 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 14 is delayed by 13 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 15 is delayed by 14 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 16 is delayed by 15 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 17 is delayed by 16 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 18 is delayed by 17 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 19 is delayed by 18 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 20 is delayed by 19 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 21 is delayed by 20 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 22 is delayed by 21 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 23 is delayed by 22 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 24 is delayed by 23 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 25 is delayed by 24 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 26 is delayed by 25 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 27 is delayed by 26 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 28 is delayed by 27 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 29 is delayed by 28 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 30 is delayed by 29 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 31 is delayed by 30 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 32 is delayed by 31 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 33 is delayed by 32 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 34 is delayed by 33 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 35 is delayed by 34 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 36 is delayed by 35 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 37 is delayed by 36 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 38 is delayed by 37 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 39 is delayed by 38 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 40 is delayed by 39 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 41 is delayed by 40 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 42 is delayed by 41 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 43 is delayed by 42 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 44 is delayed by 43 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 45 is delayed by 44 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 46 is delayed by 45 hours. summarize status.",
+    "expected": "answered"
+  },
+  {
+    "question": "Shipment 47 is delayed by 46 hours. summarize status.",
+    "expected": "answered"
+  }
+]
